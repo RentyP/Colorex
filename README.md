@@ -1,1 +1,1 @@
-# Colorex
+# T-Rex-Runner-Color
